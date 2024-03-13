@@ -3,6 +3,8 @@
 
 a mathematician who is a programming enthusiast, terrible at naming things
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostkill73&show_icons=true&theme=dark)
+
 ### Skills:
 [+] langs:
 
