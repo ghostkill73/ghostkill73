@@ -1,24 +1,36 @@
-### About me:
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+  <p align=”center”>
+<img width=”200" height=”200" src="https://github.com/ghostkill73/ghostkill73/assets/142703278/ce7676df-6198-43e0-8bb5-457df2f8c60c" alt=”Banner”>
+</p>
+<hr>
+<br>
+<p align="center">a mathematician who is a programming enthusiast.</p>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ghostkill73&show_icons=true&theme=dark">
+</div>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostkill73&layout=compact&theme=dark">
+</div>
 
-a mathematician who is a programming enthusiast. 
+  <div align="center">
+      <h2>OS:</h2>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 12">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="WSL Debian">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Win10 64bit">
+  </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostkill73&show_icons=true&theme=dark)
-
-### Skills:
-[+] langs:
-
-[![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html)
-
-[+] front:
-
-[![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/) [![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/) 
-
-[+] OS:
-
-![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) [![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/index.pt.html)
-
-
-[+] terminal:
-
-[![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
+  <div align="center">
+  <h2>Skills:</h2>
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Boune-Again Shell">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5">
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
+  </div>
+<hr>
+<img src="https://badgen.net/badge/bitcoin donation/bc1qq77c3w5l97da0pjn6d4dx9zueys29p799q7heq/yellow?icon=bitcoin" alt=":)">
+</html>
