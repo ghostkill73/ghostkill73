@@ -8,7 +8,7 @@
 </p>
 <hr>
 <br>
-<p align="center">a mathematician who is a programming enthusiast.</p>
+<p align="center">Offensive Security | Shell Script | Linux .</p>
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ghostkill73&show_icons=true&theme=dark">
