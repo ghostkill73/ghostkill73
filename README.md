@@ -22,7 +22,6 @@
       <h2>OS:</h2>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 12">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="WSL Debian">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Win10 64bit">
   </div>
 
   <div align="center">
@@ -32,5 +31,7 @@
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
   </div>
 <hr>
+<div align="center">
 <img src="https://badgen.net/badge/bitcoin donation/bc1qq77c3w5l97da0pjn6d4dx9zueys29p799q7heq/yellow?icon=bitcoin" alt=":)">
+</div>
 </html>
