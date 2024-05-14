@@ -8,7 +8,7 @@
 </p>
 <hr>
 <br>
-<p align="center">Offensive Security | Shell Script | Linux .</p>
+<p align="center">InfoSec | Shell Script | Linux | OSINT | Math</p>
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ghostkill73&show_icons=true&theme=dark">
