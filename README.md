@@ -3,35 +3,35 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-  <p align=”center”>
-<img width=”200" height=”200" src="https://github.com/ghostkill73/ghostkill73/assets/142703278/ce7676df-6198-43e0-8bb5-457df2f8c60c" alt=”Banner”>
-</p>
+
+<p align="center">InfoSec | Shell Script | Linux | OSINT</p>
 <hr>
-<br>
-<p align="center">InfoSec | Shell Script | Linux | OSINT | Math</p>
-<br>
+  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostkill73&layout=compact&theme=dark">
+</div>
+  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ghostkill73&show_icons=true&theme=dark">
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostkill73&layout=compact&theme=dark">
-</div>
-
-  <div align="center">
-      <h2>OS:</h2>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 12">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="WSL Debian">
-  </div>
+<br>
+<div align="center"><img src="https://flat.badgen.net/badge/icon/Discord:  ghostkill73/blue?label"></div>
+<br>
 
   <div align="center">
   <h2>Skills:</h2>
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Boune-Again Shell">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5">
-    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX">
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
+    <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
   </div>
-<hr>
-<div align="center">
-<img src="https://badgen.net/badge/bitcoin donation/bc1qq77c3w5l97da0pjn6d4dx9zueys29p799q7heq/yellow?icon=bitcoin" alt=":)">
-</div>
+  
+  <p>tools I have had experience with:</p>
+  <a href="https://shellhaters.org/" target="_blank"><img src="https://flat.badgen.net/badge/icon/POSIX Shell/null?label="></a>
+  <a href="https://dev.w3.org/html5/spec-LC/" target="_blank"><img src="https://flat.badgen.net/badge/icon/HTML5/blue?label"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://flat.badgen.net/badge/icon/CSS3/yellow?label"></a>
+  <a href="https://www.latex-project.org/" target="_blank"><img src="https://flat.badgen.net/badge/icon/LaTeX/null?label"></a>
+  <a href="https://en.wikipedia.org/wiki/Mathematics"><img src="https://flat.badgen.net/badge/icon/Math/red?label"></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://flat.badgen.net/badge/icon/Powershell/cyan?label"></a>
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands"><img src="https://flat.badgen.net/badge/icon/batch script/null?label"></a>
+  <a href="https://git-scm.com/"><img src="https://flat.badgen.net/badge/icon/git/orange?label"></a>
 </html>
