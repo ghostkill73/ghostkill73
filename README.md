@@ -15,10 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ghostkill73&show_icons=true&theme=dark">
 </div>
 
-<br>
-<div align="center"><img src="https://flat.badgen.net/badge/icon/Discord:  ghostkill73/blue?label"></div>
-<br>
-
   <div align="center">
   <h2>Skills:</h2>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
